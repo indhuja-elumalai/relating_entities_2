@@ -1,0 +1,23 @@
+/* src/components/RatingWidget.css */
+.rating-widget {
+    margin-top: 10px;
+  }
+  
+  .stars span {
+    margin: 5px;
+  }
+  
+  .submit-btn {
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #218838;
+  }
+  
